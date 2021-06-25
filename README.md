@@ -1,4 +1,3 @@
-# Furniture
 <!DOCTYPE html>
 
 <!---

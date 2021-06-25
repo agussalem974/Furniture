@@ -19,7 +19,7 @@ limitations under the License.
 <html ⚡="" lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Furniture</title>
+    <title>Furniture Asli Jepara</title>
     <link
       rel="canonical"
       href="https://www.ampstart.com/templates/e-commerce/landing.amp"

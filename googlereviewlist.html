@@ -7,12 +7,15 @@
 "@type": "Product", 
 "name": "Meja Makan Suar", "aggregateRating": 
 { "@type": "AggregateRating", 
-"ratingValue": "{it.rating}", 
+"ratingValue": "{{=it.rating}}", 
 "bestRating": "5", 
 "ratingCount": "528" } }
 </script>
-<divwpac_init.push({widget: 'ReviewCount', id: 31398, html: '<span class="cc-{{=it.count}}">{{=it.stars}} {{=it.count}}</span>'}); />
-        </div></div>
+        
+<script type="text/javascript">
+wpac_init.push({widget: 'GoogleReview', id: 31398, html: '<span class="cc-{{=it.count}}">{{=it.stars}} {{=it.count}}</span>'});
+</script>
+        
 <script type="text/javascript">
 wpac_init = window.wpac_init || [];
 wpac_init.push({widget: 'GoogleReview', id: 31398, place_id: 'ChIJxRY8NeIecS4Rac5iofVPA7I', view_mode: 'list'});

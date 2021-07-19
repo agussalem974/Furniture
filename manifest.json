@@ -1,0 +1,38 @@
+{
+  "name": "MejaMejaSuar.com",
+  "short_name": "MejaMakanSuar",
+  "start_url": "https://www.mejamakansuar.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Jual meja makan trembesi, solid suar wood. vintage industrial suar furniture kombinasi besi, old soul. Meja makan suar tanpa sambung. 081326666358",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-P01BwSvWXzk/Xbsis4Rd9tI/AAAAAAAAvrU/pygYjpyVrRE0orIiHiBO3pnUJN1iyi9oACLcBGAsYHQ/s48-c/logo-Agusfurnituresuar.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-P01BwSvWXzk/Xbsis4Rd9tI/AAAAAAAAvrU/pygYjpyVrRE0orIiHiBO3pnUJN1iyi9oACLcBGAsYHQ/s72-c/logo-Agusfurnituresuar.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-P01BwSvWXzk/Xbsis4Rd9tI/AAAAAAAAvrU/pygYjpyVrRE0orIiHiBO3pnUJN1iyi9oACLcBGAsYHQ/s96-c/logo-Agusfurnituresuar.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-P01BwSvWXzk/Xbsis4Rd9tI/AAAAAAAAvrU/pygYjpyVrRE0orIiHiBO3pnUJN1iyi9oACLcBGAsYHQ/s144-c/logo-Agusfurnituresuar.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-P01BwSvWXzk/Xbsis4Rd9tI/AAAAAAAAvrU/pygYjpyVrRE0orIiHiBO3pnUJN1iyi9oACLcBGAsYHQ/s192-c/logo-Agusfurnituresuar.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-P01BwSvWXzk/Xbsis4Rd9tI/AAAAAAAAvrU/pygYjpyVrRE0orIiHiBO3pnUJN1iyi9oACLcBGAsYHQ/s192-c/logo-Agusfurnituresuar.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-P01BwSvWXzk/Xbsis4Rd9tI/AAAAAAAAvrU/pygYjpyVrRE0orIiHiBO3pnUJN1iyi9oACLcBGAsYHQ/s512-c/logo-Agusfurnituresuar.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
